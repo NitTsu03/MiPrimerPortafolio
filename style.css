@@ -1,0 +1,22 @@
+body {
+    color: #fff;
+    background-color: #d8da3d;
+}
+
+#secction1 {
+    font-size: 60px;
+    text-align: center;
+    
+    background-image: url();
+    background-size: contain;
+}
+
+#video {
+    left: 50%;
+    min-height: 100%;
+    min-width: 100%;
+    opacity: .2;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
